@@ -2,7 +2,5 @@ This file is edited on 28/06/2020 backupscript
 Created Develop Branch
 For Merge conflict
 
-Branch 1: 
-Created Branch1 for conflict test
-
+This is from Git hub
 
