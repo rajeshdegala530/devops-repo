@@ -1,2 +1,5 @@
 This is 2nd type of conflicts resolutions
+
 Update from Local
+
+
