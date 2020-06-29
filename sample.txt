@@ -1,1 +1,2 @@
 This is 2nd type of conflicts resolutions
+Updated on Github
